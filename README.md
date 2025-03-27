@@ -45,7 +45,7 @@ ecommerce_app/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ecommerce_app.git
+   git clone https://github.com/subhamomar123/ecommerce_backend
    cd ecommerce_app
    ```
 
